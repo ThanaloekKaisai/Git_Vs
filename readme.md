@@ -1,5 +1,3 @@
-# Learning github on vs code
+# Learn github on vscode
 
-## Text 1
-
-### Text 2
+## This is Heading 2
